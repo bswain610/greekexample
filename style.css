@@ -1,0 +1,36 @@
+
+body{
+	padding: 0px;
+	margin:auto;
+	background-color: skyblue;
+}
+#container{
+background-color: white;
+}
+
+GEEKFORGEEKS {										 
+	margin-left: 70px; 
+	font-weight: bold ; 
+	float: left; 
+	clear: left; 
+	width: 100px; 
+	text-align: left; 
+	margin-right: 10px; 
+	font-family:sans-serif,bold, Arial, Helvetica; 
+	font-size:14px;
+
+} 
+
+div { 
+	box-sizing: border-box; 
+	width: 50%; 
+	 
+	float: right; 
+	align-content: center; 
+	align-items: center;
+	border-radius: 10px; 
+} 
+
+form {										 
+	margin: 0 auto; 
+	width: 600px; 
